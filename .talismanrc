@@ -1,0 +1,26 @@
+fileignoreconfig:
+- filename: ChatSQL/sqlite.py
+  checksum: 581dd85fe7251dc6414a14bbce4b51556663013c287e23bc29309b5d86599a7c
+- filename: search_engine_with_tools_agents.ipynb
+  checksum: 0e3fe5f660b9b50f98773d35b07e16de44985929d7b663b889a93022bb6923eb
+- filename: lang_components.ipynb
+  checksum: a6323efdd86117834b2820a1e3f935de86e3c6ce53304c887e28d9eb5d14e519
+- filename: ChatSQL/app.py
+  checksum: 9894326315e29c68b2ec3bdd81be10e741b2ebb694b9de813585d0795328e62c
+- filename: serve.py
+  checksum: 2e5ef365c53cc6462d4f6155d13ff46e39a951b8ef81ec831f084a47f361a33c
+- filename: MathsSolver/app.py
+  checksum: 5fa72688af7d6564608fdeb2382e64dfc3ac51aa8893c5b63d66b00b14adbf95
+- filename: retrievers_and_chains.ipynb
+  checksum: d73608ba8ecc1933d5b4723598d4dbf69afadece0a1d562f2edcae3e5a03dce5
+- filename: TextSummary/app.py
+  checksum: 20784229631e5bf1efc33874ca3f0f6751e838e3e39a9da33adb9aabd13c3383
+- filename: app.py
+  checksum: 877ec3b9c3818675a1fb30f56d5b2643edbd5456aad0a89fa523fd983a17e4ce
+- filename: news.txt
+  checksum: 75989b2a213cf3f25b8c291fa74a452bbeb4f3d8974d657fbc986fb7dff88f40
+- filename: conversational_bot.ipynb
+  checksum: 94712e57bb4e9262d7213e9ba2e92ca332c0ef60313ef971ca02774d72704fb5
+- filename: TextSummary/text_summarisation.ipynb
+  checksum: fede3f6e9a8c06f3bc60482b62a4f5e97b288b51e6a7d191d8be2e23ae8ec77d
+version: ""
